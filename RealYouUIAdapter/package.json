@@ -1,1 +1,12 @@
-{"displayName":"RealYou UI Adapter","description":"UI Adapter","keywords":["UI","Adapter"],"publishConfig":{"registry":"git@github.com:EvanLi0823/UnityPackages.git"},"repository":{"type":"git","url":"git@github.com:EvanLi0823/UnityPackages.git/RealYouUIAdapter"},"version":"1.1.7","unityRelease":"0f2","dependencies":{"com.realyou.unity.unitask":"1.0.6"},"unity":"2018.3","name":"com.realyou.unity.uiadapter"}
+{
+  "name": "com.realyou.unity.uiadapter",
+  "version": "1.1.7",
+  "displayName": "RealYou UI Adapter",
+  "description": "UI Adapter",
+  "keywords": ["UI", "Adapter"],
+  "dependencies": {
+    "com.realyou.unity.unitask": "1.0.6"
+  },
+  "unity": "2018.3",
+  "unityRelease": "0f2"
+}
